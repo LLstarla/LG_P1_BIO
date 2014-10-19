@@ -8,15 +8,15 @@
 
 
 h1 { 
-	font-family: 'Laila', serif;
-	color: #1D9089;
+	font-family: 'Questrial', sans-serif;
+	color: #65326D;
 	margin-left: 200px;
 	font-size: 3em;
 }
 
 body {
-	background: #65326D url("../img/dark-wood.png");
-	color: #B9EFEF;
+	background: url("../img/dark-wood-blue.png");
+	color: #1D9089;
 	padding: 10px;
 	border: 30px;
 	margin: 50px 100px 100px 100px;
