@@ -7,7 +7,7 @@
 			Dark blue: #182F3F          */
 
 header {
-	background: url("../img/dripping-paint-FINAL.png") repeat-x;
+	background: url("../img/dripping-paint-BLUEE.png") repeat-x;
 	background-size: 100%;
 	margin-top: 0px;
 	margin-left: 0px;
@@ -44,16 +44,42 @@ body {
 	color: #1D9089;
 }
 
-ul {
-	list-style: none;
+
+nav {
+	text-align: center;
+	float: center;
+	max-width: 100%;
+	margin-left: -25px;
+}
+
+
+nav li {
+	display: inline;
+}
+
+nav a {
+	font-weight: 800;
+
 }
 
 nav ul li a {
 	list-style: none;
 	text-decoration: none;
+	text-transform: uppercase;
 	color: #182F3F;
-	
+	font-size: 1.25em;
 }
+
+li a {
+	border: 2px;
+	padding: 20px;
+}
+
+
+
+
+
+
 
 
 /*********CSS EXAMPLES***************
