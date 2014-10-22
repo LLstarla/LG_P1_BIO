@@ -6,19 +6,43 @@
 			Teal: #1D9089
 			Dark blue: #182F3F          */
 
+/*header {
+	background: url("../img/dripping-paint-FINAL.png") repeat-x;
+	background-size: 100%;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding: 100px;
+}*/
+
 
 h1 { 
+	text-align: center;
 	font-family: 'Questrial', sans-serif;
-	color: #65326D;
-	font-size: 3em;
+	color: #182F3F;
+	font-size: 6em;
+	
 }
+
+
+h2 { 
+	font-family: 'Questrial', sans-serif;
+	color: #1D9089;
+	font-size: 2em;
+	margin: 10px 0 50px 0;
+}
+
 
 body {
 	background: url("../img/dark-wood-dark-purple.png");
 	color: #1D9089;
-	padding: 10px;
-	border: 30px;
-	margin: 50px 100px 100px 100px;
+}
+
+
+ul {
+	background: url("../img/paint-daub-teal.png") no-repeat;
+	background-size: 24px;
+	list-style: none;
 }
 
 
