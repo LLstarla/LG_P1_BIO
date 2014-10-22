@@ -10,12 +10,11 @@
 h1 { 
 	font-family: 'Questrial', sans-serif;
 	color: #65326D;
-	margin-left: 200px;
 	font-size: 3em;
 }
 
 body {
-	background: url("../img/dark-wood-blue.png");
+	background: url("../img/dark-wood-dark-purple.png");
 	color: #1D9089;
 	padding: 10px;
 	border: 30px;
