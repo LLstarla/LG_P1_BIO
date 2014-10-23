@@ -77,16 +77,15 @@ li a {
 }
 
 nav a { color: #182F3F;} 
+
 nav a:hover { color: #B9EFEF;} 
+
 
 p { color: #65326D;
 	font-family:'Questrial', sans-serif;
 	font-size: 1.5em;
 	text-align: center;
 	
-
-	
-
 }
 
 #bio {
@@ -105,7 +104,9 @@ p { color: #65326D;
 }
 
 
-
+#foot {
+	max-width: 100%;
+}
 
 
 
