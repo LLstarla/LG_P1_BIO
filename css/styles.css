@@ -38,6 +38,16 @@ h2 {
 
 }
 
+h3 { 
+	font-family: 'Questrial', sans-serif;
+	color: #1D9089;
+	font-size: 2em;
+	text-align: center;
+	float: center;
+	margin-left: -200px;
+
+}
+
 
 body {
 	background: url("../img/dark-wood-dark-purple.png");
@@ -81,20 +91,36 @@ nav a { color: #182F3F;}
 nav a:hover { color: #B9EFEF;} 
 
 
-p { color: #65326D;
-	font-family:'Questrial', sans-serif;
-	font-size: 1.5em;
-	text-align: center;
-
+p {font-family:'Questrial', sans-serif;
 }
 
 #bio {
 	display: block;
-	margin: 30px;
+	color: #65326D;
+	font-family:'Questrial', sans-serif;
+	font-size: 1.6em;
+	margin: 60px 30px 30px 30px;
 	border: 50px 20px;
 	max-width: 100%;
+	letter-spacing: .5px;
 }
 
+
+
+#pone {
+	text-align: left;
+	margin: 20px 12px 40px 0;
+}
+
+#ptwo {
+	text-align: center;
+	margin: 20px 0 40px 0;
+}
+
+#pthree {
+	text-align: right;
+	margin: 20px 0 40px 12px;
+}
 
 #picture {
 	display: block;
@@ -103,9 +129,25 @@ p { color: #65326D;
 	border-radius: 20px;
 }
 
+#vids {
+	max-height: 200%;
+	float: center;
+	margin-left: 200px;
+}
+
+
+.embedly-embed {
+	border-radius: 20px;
+}
 
 #foot {
+	color: #182F3F;
+	text-align: center;
+	float: center;
+	text-transform: uppercase;
 	max-width: 100%;
+	margin-left: 200px;
+
 }
 
 
